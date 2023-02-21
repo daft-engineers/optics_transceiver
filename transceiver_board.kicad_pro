@@ -334,22 +334,6 @@
     [
       "9252f6c6-964c-4a99-bc96-7468213f7a97",
       "FPGA"
-    ],
-    [
-      "ac63a10a-4e4a-4959-a584-16fd62947e00",
-      "ADC"
-    ],
-    [
-      "89749a37-5722-495e-a4a0-9dc2a298bcdc",
-      "DAC"
-    ],
-    [
-      "cac37bca-658a-401b-a4cb-03c5dd4f630a",
-      "Demodulator"
-    ],
-    [
-      "34da82f0-26e0-4c78-bc7c-b4ced14ddc35",
-      "Modulator"
     ]
   ],
   "text_variables": {}
