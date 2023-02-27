@@ -1,3 +1,4 @@
 (sym_lib_table
   (lib (name "local_library")(type "KiCad")(uri "${KIPRJMOD}/parts/local_library.kicad_sym")(options "")(descr ""))
+  (lib (name "Comparator")(type "Legacy")(uri "${KIPRJMOD}/parts/ul_ltc6752ims8-2-pbf/KiCAD/2023-02-21_12-13-17/2023-02-21_12-13-17.lib")(options "")(descr ""))
 )

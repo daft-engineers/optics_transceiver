@@ -236,9 +236,7 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": [
-      "local_library"
-    ]
+    "pinned_symbol_libs": []
   },
   "meta": {
     "filename": "transceiver_board.kicad_pro",
@@ -334,6 +332,10 @@
     [
       "9252f6c6-964c-4a99-bc96-7468213f7a97",
       "FPGA"
+    ],
+    [
+      "51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55",
+      "Comparator"
     ]
   ],
   "text_variables": {}
