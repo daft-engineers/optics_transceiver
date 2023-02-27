@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Ethernet Jack")(type "KiCad")(uri "${KIPRJMOD}/parts/Ethernet Jack")(options "")(descr ""))
+  (lib (name "Comparator")(type "KiCad")(uri "${KIPRJMOD}/parts/ul_ltc6752ims8-2-pbf/KiCAD/2023-02-21_12-13-17/footprints.pretty")(options "")(descr ""))
 )
