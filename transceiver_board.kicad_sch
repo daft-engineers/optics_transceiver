@@ -74,14 +74,26 @@
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/41794cb3-6906-40da-ab23-fac7c0b8a73d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/d9f100e9-02ee-4368-ba05-a9e50ad1330b"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/45ac3d35-0e07-40e3-b2f6-1daee7c64de7"
       (reference "C?") (unit 1) (value "2u2") (footprint "")
     )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/7a7faf29-9736-40de-9707-4410dc4e29cd"
       (reference "C?") (unit 1) (value "100n") (footprint "")
     )
+    (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/81a9c681-5a9d-4a87-87dc-c8c3532f3132"
+      (reference "C?") (unit 1) (value "100n") (footprint "")
+    )
+    (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/aaa0908f-ac48-4471-a2be-8f6cd57d7370"
+      (reference "C?") (unit 1) (value "100n") (footprint "")
+    )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/e4560c4b-2407-4c44-b528-3ed45367607a"
       (reference "C?") (unit 1) (value "100n") (footprint "")
+    )
+    (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/ecbfb128-2ae5-4031-a519-40fab930e4a6"
+      (reference "C?") (unit 1) (value "2u2") (footprint "")
     )
     (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/916207f4-4bf4-4de8-9a57-0ebee3b5f380"
       (reference "Ethernet_Port?") (unit 1) (value "7499410440") (footprint "")
