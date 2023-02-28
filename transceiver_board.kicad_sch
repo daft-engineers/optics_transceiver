@@ -56,16 +56,32 @@
     )
   )
 
+  (sheet (at 208.28 138.43) (size 175.26 105.41) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid ba74941e-d0cd-46a4-ade7-f1aec57ffafc)
+    (property "Sheet name" "Photoreceiver" (id 0) (at 208.28 137.7184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "photo_receiver.kicad_sch" (id 1) (at 208.28 244.4246 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet_instances
     (path "/" (page "1"))
     (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14" (page "2"))
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394" (page "3"))
     (path "/9252f6c6-964c-4a99-bc96-7468213f7a97" (page "4"))
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55" (page "5"))
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc" (page "6"))
   )
 
   (symbol_instances
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/1a8b304b-45e5-49bb-aa50-edadc02513e4"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/35920afe-40d5-4522-b809-581c7052930d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/369e047b-679e-446a-81ea-88f02349b84f"
@@ -76,6 +92,9 @@
     )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/d9f100e9-02ee-4368-ba05-a9e50ad1330b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/37390626-ae04-4360-9ff8-4cc9e030e613"
+      (reference "C1") (unit 1) (value "0.1u") (footprint "")
     )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/45ac3d35-0e07-40e3-b2f6-1daee7c64de7"
       (reference "C?") (unit 1) (value "2u2") (footprint "")
@@ -95,6 +114,9 @@
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/ecbfb128-2ae5-4031-a519-40fab930e4a6"
       (reference "C?") (unit 1) (value "2u2") (footprint "")
     )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/775c16ea-275e-4ff0-8988-f47736df60c6"
+      (reference "C_noise") (unit 1) (value "0.1u") (footprint "")
+    )
     (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/916207f4-4bf4-4de8-9a57-0ebee3b5f380"
       (reference "Ethernet_Port?") (unit 1) (value "7499410440") (footprint "")
     )
@@ -104,8 +126,29 @@
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/e69d0b19-2f64-4d2d-8597-7b71bd218f10"
       (reference "PHY_Interface?") (unit 1) (value "KSZ8721BT") (footprint "TQFP48_7x7MC_MCH")
     )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/584ec624-a8dc-44ac-8701-d12fd00a4c29"
+      (reference "PhotoReceiver") (unit 1) (value "FDS010") (footprint "")
+    )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/1996c559-3c89-4ba6-bd00-1cb04a42d3ce"
+      (reference "R1") (unit 1) (value "49.9") (footprint "")
+    )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/1c29d240-cf64-4dfe-ba89-1399c7aafc8d"
+      (reference "R2") (unit 1) (value "20k") (footprint "")
+    )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/29ac7234-e707-4fa6-a2bd-bf55acfb7121"
+      (reference "R3") (unit 1) (value "1.74k") (footprint "")
+    )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/3f5733dd-948b-4ed9-bdf7-60d1bb6942e2"
+      (reference "R4") (unit 1) (value "49.9") (footprint "")
+    )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/7a619027-97df-498d-8a0c-2c78f3c2bc46"
       (reference "RV?") (unit 1) (value "R_Potentiometer") (footprint "")
+    )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/7785fef6-61a3-4219-a040-d5622719f832"
+      (reference "R_noise") (unit 1) (value "1k") (footprint "")
+    )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/05765386-28d4-41c8-8c5a-f440178f690a"
+      (reference "U?") (unit 1) (value "AD8014ARZ") (footprint "SOIC127P600X175-8N")
     )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/72b49ec8-c68f-4d04-913b-fe685e96edee"
       (reference "U?") (unit 1) (value "ltc6752ims8-2-pbf") (footprint "MSOP-8_MS")
