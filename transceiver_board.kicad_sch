@@ -55,6 +55,17 @@
       (effects (font (size 1.27 1.27)) (justify left top))
     )
   )
+  (sheet (at 430.53 111.76) (size 140.97 86.36) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 9c91d18d-68d4-4932-8503-e5dad9f3ecb3)
+    (property "Sheet name" "Ethernet Magnetics" (id 0) (at 430.53 111.0484 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "ethernet magnetics.kicad_sch" (id 1) (at 430.53 198.7046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
 
   (sheet (at 208.28 138.43) (size 175.26 105.41) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
@@ -75,6 +86,7 @@
     (path "/9252f6c6-964c-4a99-bc96-7468213f7a97" (page "4"))
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55" (page "5"))
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc" (page "6"))
+	(path "/9c91d18d-68d4-4932-8503-e5dad9f3ecb3" (page "7"))
   )
 
   (symbol_instances
@@ -92,6 +104,15 @@
     )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/d9f100e9-02ee-4368-ba05-a9e50ad1330b"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+	)
+    (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/5832ccc5-1d48-4ba8-993e-c25897b10601"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/6af55d6d-3aa8-4038-bc12-e09827806386"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/f696f17d-e54a-4708-b516-10835d65e881"
+      (reference "C?") (unit 1) (value "1000pF, 2kV") (footprint "")
     )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/37390626-ae04-4360-9ff8-4cc9e030e613"
       (reference "C1") (unit 1) (value "0.1u") (footprint "")
@@ -123,6 +144,12 @@
     (path "/9252f6c6-964c-4a99-bc96-7468213f7a97/40c6ff27-ff04-4354-bf7d-aac7fff2d9fa"
       (reference "FPGA?") (unit 1) (value "Artix-7 Dev Board") (footprint "")
     )
+    (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/baa84674-ad20-4613-871a-531aac59e40e"
+      (reference "J?") (unit 1) (value "RJ45_LED_Shielded") (footprint "")
+    )
+    (path "/34da82f0-26e0-4c78-bc7c-b4ced14ddc35/0804e54c-5c84-4925-a937-07358693c834"
+      (reference "Modulator?") (unit 1) (value "AD8345AREZ") (footprint "")
+    )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/e69d0b19-2f64-4d2d-8597-7b71bd218f10"
       (reference "PHY_Interface?") (unit 1) (value "KSZ8721BT") (footprint "TQFP48_7x7MC_MCH")
     )
@@ -152,6 +179,24 @@
     )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/72b49ec8-c68f-4d04-913b-fe685e96edee"
       (reference "U?") (unit 1) (value "ltc6752ims8-2-pbf") (footprint "MSOP-8_MS")
+	)
+    (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/061c147f-e231-4c5f-a5cf-5533ead6a90f"
+      (reference "R?") (unit 1) (value "75R") (footprint "")
+    )
+    (path "/9c91d18d-68d4-4932-8503-e5dad9f3ecb3/0d6d225b-c7ca-4091-8ff4-7280ae3d4c01"
+      (reference "R?") (unit 1) (value "75R") (footprint "")
+    )
+    (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/17cd2aad-5960-42d0-a49b-ffbd8e59d997"
+      (reference "R?") (unit 1) (value "75R") (footprint "")
+    )
+    (path "/9c91d18d-68d4-4932-8503-e5dad9f3ecb3/b77bd3ad-3d23-49c9-9edb-17259af96359"
+      (reference "R?") (unit 1) (value "75R") (footprint "")
+    )
+	(path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/7a619027-97df-498d-8a0c-2c78f3c2bc46"
+      (reference "RV?") (unit 1) (value "R_Potentiometer") (footprint "")
+    )
+    (path "/9c91d18d-68d4-4932-8503-e5dad9f3ecb3/0e48a565-d68b-4f9f-a0c5-a860ed343575"
+      (reference "U?") (unit 1) (value "ALANS10001-4J41ET") (footprint "")
     )
   )
 )

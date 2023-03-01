@@ -1,5 +1,6 @@
 {
   "board": {
+    "3dviewports": [],
     "design_settings": {
       "defaults": {
         "board_outline_line_width": 0.1,
@@ -23,7 +24,8 @@
       "track_widths": [],
       "via_dimensions": []
     },
-    "layer_presets": []
+    "layer_presets": [],
+    "viewports": []
   },
   "boards": [],
   "cvpcb": {
@@ -265,7 +267,9 @@
     "meta": {
       "version": 2
     },
-    "net_colors": null
+    "net_colors": null,
+    "netclass_assignments": null,
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
@@ -340,6 +344,10 @@
     [
       "ba74941e-d0cd-46a4-ade7-f1aec57ffafc",
       "Photoreceiver"
+	],
+	[
+      "9c91d18d-68d4-4932-8503-e5dad9f3ecb3",
+      "Ethernet Magnetics"
     ]
   ],
   "text_variables": {}
