@@ -344,10 +344,14 @@
     [
       "ba74941e-d0cd-46a4-ade7-f1aec57ffafc",
       "Photoreceiver"
-	],
-	[
+    ],
+    [
       "9c91d18d-68d4-4932-8503-e5dad9f3ecb3",
       "Ethernet Magnetics"
+    ],
+    [
+      "7439cf31-4a35-4348-9fd9-f17e5e75d79c",
+      "Phototransmitter"
     ]
   ],
   "text_variables": {}

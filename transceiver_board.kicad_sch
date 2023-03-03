@@ -32,6 +32,18 @@
     )
   )
 
+  (sheet (at 16.51 250.19) (size 185.42 93.98) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 7439cf31-4a35-4348-9fd9-f17e5e75d79c)
+    (property "Sheet name" "Phototransmitter" (id 0) (at 16.51 249.4784 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "phototransmitter.kicad_sch" (id 1) (at 16.51 344.7546 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 208.28 16.51) (size 175.26 114.3) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -88,6 +100,7 @@
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55" (page "5"))
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc" (page "6"))
     (path "/9c91d18d-68d4-4932-8503-e5dad9f3ecb3" (page "7"))
+    (path "/7439cf31-4a35-4348-9fd9-f17e5e75d79c" (page "8"))
   )
 
   (symbol_instances
