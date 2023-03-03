@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP S558-5999-46-F
+D Telecom Transformer 2(1CT:1CT) 16 Terminal Gull Wing SMD
+K
+F https://www.mouser.co.uk/datasheet/2/643/dr-MAG-S558-5999-46-F-1310230.pdf
+$ENDCMP
+#
+#End Doc Library
