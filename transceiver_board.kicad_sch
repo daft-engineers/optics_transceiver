@@ -143,6 +143,9 @@
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/41794cb3-6906-40da-ab23-fac7c0b8a73d"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/4404288a-d83d-4098-b60e-2d7e1c265157"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
+    )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/4aee2b22-d367-40dc-80eb-b61caefea53c"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
@@ -176,6 +179,9 @@
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/8d9cf77c-cbe9-4223-899c-3073579d7b96"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
+    (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/91a0ed9b-82ff-4134-84fa-414377529cbb"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/94814247-a335-42d6-8929-40d92c81b373"
       (reference "#PWR?") (unit 1) (value "+3V3") (footprint "")
     )
@@ -205,6 +211,9 @@
     )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/bf883977-a102-42f5-bb89-76a9d7a7b3d9"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/c63b7103-9622-4168-82cf-3ce96d473b35"
+      (reference "#PWR?") (unit 1) (value "+3.3V") (footprint "")
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/c8ece296-11c4-4674-82ed-1bc5a8264bac"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -236,8 +245,14 @@
     (path "/9252f6c6-964c-4a99-bc96-7468213f7a97/e755f76f-d654-43ec-9d56-6b639def1538"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
+    (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/e9799bed-8ad6-4639-930f-80e697906339"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
+    )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/ea9e07f4-709b-4bd8-8963-938def869674"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
+    (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/f01f89e3-df11-4802-846e-0004f3e6b6b4"
+      (reference "#PWR?") (unit 1) (value "+5V") (footprint "")
     )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/f2b1bbd6-aa07-4df3-91d8-0863e6b16891"
       (reference "#PWR?") (unit 1) (value "+5V") (footprint "")

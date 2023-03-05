@@ -344,10 +344,6 @@
     (uuid cc9beb26-18ab-43d7-bbd1-28c0eb50e0d7)
   )
 
-  (wire (pts (xy 88.9 110.49) (xy 105.41 110.49))
-    (stroke (width 0) (type default) (color 0 0 0 0))
-    (uuid 02744b07-dca6-4f96-b203-3046eb8c4612)
-  )
   (wire (pts (xy 165.1 95.25) (xy 162.56 95.25))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 0c338d7e-03ce-410a-b071-01a645f33abe)
