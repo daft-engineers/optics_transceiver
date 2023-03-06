@@ -20,6 +20,18 @@
     )
   )
 
+  (sheet (at 208.28 254) (size 173.99 93.98) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid) (color 0 0 0 0))
+    (fill (color 0 0 0 0.0000))
+    (uuid 1de94cad-76c0-4a30-84fe-02d514b058e5)
+    (property "Sheet name" "laser" (id 0) (at 208.28 253.2884 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheet file" "laser.kicad_sch" (id 1) (at 208.28 348.5646 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+  )
+
   (sheet (at 16.51 16.51) (size 185.42 114.3) (fields_autoplaced)
     (stroke (width 0.1524) (type solid) (color 0 0 0 0))
     (fill (color 0 0 0 0.0000))
@@ -101,6 +113,7 @@
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc" (page "6"))
     (path "/9c91d18d-68d4-4932-8503-e5dad9f3ecb3" (page "7"))
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545" (page "8"))
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5" (page "9"))
   )
 
   (symbol_instances
@@ -263,6 +276,9 @@
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/5155e095-0edd-45d6-821e-64632b11a90d"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/f9afb48e-fa33-48d5-9928-f6054fb650bc"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
+    )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/37390626-ae04-4360-9ff8-4cc9e030e613"
       (reference "C1") (unit 1) (value "0.1u") (footprint "")
     )
@@ -416,6 +432,9 @@
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/34254c17-7c32-4c88-873b-e0a530efa838"
       (reference "J2") (unit 1) (value "Conn_01x02_Male") (footprint "")
     )
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/4725cdc7-9cc0-4c76-8edc-0dc2cb0031f3"
+      (reference "J?") (unit 1) (value "Conn_Coaxial") (footprint "")
+    )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/dd09f115-e700-459a-8325-2ba379bc053e"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "")
     )
@@ -436,6 +455,12 @@
     )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/584ec624-a8dc-44ac-8701-d12fd00a4c29"
       (reference "PhotoReceiver1") (unit 1) (value "FDS010") (footprint "")
+    )
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/828d5737-58d6-402a-8f28-c69582938413"
+      (reference "Q?") (unit 1) (value "BC547") (footprint "Package_TO_SOT_THT:TO-92_Inline")
+    )
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/92d08138-ad32-438e-a266-e2fff0798662"
+      (reference "Q?") (unit 1) (value "BC547") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/1996c559-3c89-4ba6-bd00-1cb04a42d3ce"
       (reference "R1") (unit 1) (value "49.9") (footprint "")

@@ -352,6 +352,10 @@
     [
       "099fbc0b-58f5-4ea0-91be-48e4a94d6545",
       "Power Supply"
+    ],
+    [
+      "1de94cad-76c0-4a30-84fe-02d514b058e5",
+      "laser"
     ]
   ],
   "text_variables": {}
