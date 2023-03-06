@@ -741,7 +741,7 @@
     (property "Value" "Conn_Coaxial" (id 1) (at 134.62 112.0531 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 132.08 110.49 0)
+    (property "Footprint" "Connector_Coaxial:SMA_Amphenol_901-144_Vertical" (id 2) (at 132.08 110.49 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 132.08 110.49 0)
