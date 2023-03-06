@@ -1,0 +1,21 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP T491D106K035AT
+D T491, Tantalum, MnO2 Tantalum, Commercial Grade, 10 uF, 10%, 35 VDC, 125C, -55C, 85C, SMD, MnO2, Molded, 6 % , 1 Ohms, 3500 nA, 446.84 mg, 7343, 2.8mm, Height Max = 3.1mm, 500, 156  Weeks
+K
+F http://uk.rs-online.com/web/p/products/5382587P
+$ENDCMP
+#
+$CMP TAJB225K035R
+D AVX 2.2uF SMD Solid MnO2 Tantalum Electrolytic Capacitor, 35 V dc +/-10%, TAJ Series
+K
+F http://datasheets.avx.com/TAJ.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -2,6 +2,5 @@
   (lib (name "Ethernet Jack")(type "KiCad")(uri "${KIPRJMOD}/parts/Ethernet Jack")(options "")(descr ""))
   (lib (name "Comparator")(type "KiCad")(uri "${KIPRJMOD}/parts/ul_ltc6752ims8-2-pbf/KiCAD/2023-02-21_12-13-17/footprints.pretty")(options "")(descr ""))
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/parts/ul_LAN83C185-JT/KiCAD/2023-02-27_15-58-55/footprints.pretty")(options "")(descr ""))
-  (lib (name "OUR_FOOTPRINTS")(type "KiCad")(uri "${KIPRJMOD}/parts/custom_footprints/OUR_FOOTPRINTS.pretty")(options "")(descr ""))
-  (lib (name "Magnetics")(type "KiCad")(uri "${KIPRJMOD}/parts/puls magnetics/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "SamacSys_Parts")(type "KiCad")(uri "${KIPRJMOD}/parts/external_footprints/SamacSys_Parts.pretty")(options "")(descr ""))
 )
