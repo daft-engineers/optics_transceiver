@@ -282,11 +282,11 @@
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/22c238bb-3280-4b06-b769-b3bdecdee832"
       (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
     )
-    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/27c88ce0-efb1-4bb8-8b3a-5621cfb7fd91"
-      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/d2f2f281-a1d2-467a-9fff-0a3170744119"
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/bfdbab4a-d27a-4a06-934e-90767e569ff4"
       (reference "#PWR?") (unit 1) (value "+12V") (footprint "")
+    )
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/c7ee3cff-0908-491f-a584-c0b72871958d"
+      (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/d6dae402-a821-40a5-b7f0-6119be9f3bc5"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
@@ -411,13 +411,13 @@
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/3bfc77a0-0eef-492b-b087-cc685b3a1f58"
       (reference "C41") (unit 1) (value "100n") (footprint "")
     )
-    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/31167afc-d7d8-4b85-81c8-f3238bd70ad2"
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/1bfe2e6b-7161-4243-99aa-4f9dd2407554"
+      (reference "C?") (unit 1) (value "0.1uF") (footprint "")
+    )
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/2d013b85-ca49-4426-9df6-f585e458a169"
       (reference "C?") (unit 1) (value "0.1uF") (footprint "")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/4de3139a-5c34-42b0-9b89-c93bfb6f500e"
-      (reference "C?") (unit 1) (value "0.1uF") (footprint "")
-    )
-    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/55dbbea6-57c9-4392-b2fb-bb766fa1cb1d"
       (reference "C?") (unit 1) (value "0.1uF") (footprint "")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/b612610d-7b2d-4fca-a75f-db1cb07b3a9b"
@@ -618,16 +618,16 @@
     (path "/9c91d18d-68d4-4932-8503-e5dad9f3ecb3/237ed793-ca5e-4b70-a492-0afbeace878d"
       (reference "R44") (unit 1) (value "49.9") (footprint "")
     )
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/545a5c8e-2ea8-4a91-8d69-22029fc80223"
+      (reference "R?") (unit 1) (value "R") (footprint "")
+    )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/5dde8a14-022f-488a-a321-608e52bdf39a"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
-    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/831237bc-25bf-4008-bf61-9d08068311c4"
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/6b6a26f9-54e5-47d8-a6d1-5a910dbe72d5"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
-    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/ad636366-d89a-4eed-8d31-c494ba6c4517"
-      (reference "R?") (unit 1) (value "R") (footprint "")
-    )
-    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/ee467f5e-0c6d-403b-a5f9-9cd28555a84a"
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/f7d62a8c-9a65-48a4-8ce6-14beb3585f9d"
       (reference "R?") (unit 1) (value "R") (footprint "")
     )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/7a619027-97df-498d-8a0c-2c78f3c2bc46"
@@ -636,7 +636,7 @@
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/aeab4d24-10d2-42ef-a0aa-67959360f861"
       (reference "RV?") (unit 1) (value "R") (footprint "")
     )
-    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/c5690fad-182c-4292-8f05-b0de376a07cf"
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/be80015a-1657-4920-89a1-47f40f8c36ab"
       (reference "RV?") (unit 1) (value "R") (footprint "")
     )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/7785fef6-61a3-4219-a040-d5622719f832"
@@ -666,7 +666,7 @@
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/1c015480-c5a0-402c-9afc-d1263b20d684"
       (reference "U?") (unit 1) (value "LM317_TO-220") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
-    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/37f1e990-b8f7-454f-811a-403fa95d6716"
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/80c23775-289b-45b1-b4e4-c95b739f26a0"
       (reference "U?") (unit 1) (value "LM317_TO-220") (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
     )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/c9764a3c-592f-4389-b01d-37397b6fd4d2"
