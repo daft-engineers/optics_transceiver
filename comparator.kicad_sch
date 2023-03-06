@@ -349,6 +349,7 @@
     )
   )
 
+
   (junction (at 172.72 53.34) (diameter 0) (color 0 0 0 0)
     (uuid 0ca1cb69-510f-4633-ba5d-4fdbd7194a0e)
   )
@@ -570,7 +571,7 @@
     (property "Value" "ltc6752ims8-2-pbf" (id 1) (at 138.43 83.82 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "MSOP-8_MS" (id 2) (at 138.43 85.344 0)
+    (property "Footprint" "Package_SO:MSOP-8_3x3mm_P0.65mm" (id 2) (at 138.43 85.344 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 113.03 91.44 0)

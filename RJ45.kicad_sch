@@ -518,6 +518,7 @@
     )
   )
 
+
   (junction (at 186.69 86.36) (diameter 0) (color 0 0 0 0)
     (uuid 4509de4e-4978-4b74-bd20-a20a26ff6d6f)
   )
@@ -809,7 +810,7 @@
     (uuid baa84674-ad20-4613-871a-531aac59e40e)
     (property "Reference" "J1" (id 0) (at 134.62 73.66 0))
     (property "Value" "RJ45_LED_Shielded" (id 1) (at 134.62 76.2 0))
-    (property "Footprint" "" (id 2) (at 134.62 90.805 90)
+    (property "Footprint" "Ethernet Jack:7499410440" (id 2) (at 134.62 90.805 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 134.62 90.805 90)

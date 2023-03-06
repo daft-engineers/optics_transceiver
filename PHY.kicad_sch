@@ -876,6 +876,7 @@
     )
   )
 
+
   (junction (at 33.02 105.41) (diameter 0) (color 0 0 0 0)
     (uuid 0c8d5440-3759-4e87-a95b-0bf946417544)
   )
@@ -2866,7 +2867,7 @@
     (property "Value" "LAN83C185-JT" (id 1) (at 142.24 41.91 0)
       (effects (font (size 1.524 1.524)))
     )
-    (property "Footprint" "TQFP64_10x10MC_MCH" (id 2) (at 142.24 43.434 0)
+    (property "Footprint" "Package_QFP:TQFP-64_10x10mm_P0.5mm" (id 2) (at 142.24 43.434 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 93.98 49.53 0)
