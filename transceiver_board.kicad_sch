@@ -625,7 +625,7 @@
       (reference "RV3") (unit 1) (value "R") (footprint "")
     )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/32dd0a34-ae9f-48c6-aa1b-bc1b75569f55"
-      (reference "R_L") (unit 1) (value "50R") (footprint "")
+      (reference "R_L") (unit 1) (value "68R") (footprint "")
     )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/09eea312-8d7e-4d91-8fdf-3d101dab228e"
       (reference "R_noise") (unit 1) (value "1k") (footprint "")

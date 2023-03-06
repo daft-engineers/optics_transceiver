@@ -366,7 +366,7 @@
     (property "Reference" "R_L" (id 0) (at 144.78 104.1399 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "50R" (id 1) (at 144.78 106.6799 0)
+    (property "Value" "68R" (id 1) (at 144.78 106.6799 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "" (id 2) (at 140.462 105.41 90)
