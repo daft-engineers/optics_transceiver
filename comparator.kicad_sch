@@ -349,7 +349,6 @@
     )
   )
 
-
   (junction (at 172.72 53.34) (diameter 0) (color 0 0 0 0)
     (uuid 0ca1cb69-510f-4633-ba5d-4fdbd7194a0e)
   )
@@ -464,10 +463,10 @@
     (uuid 4c42f6b6-49f8-4e0f-89d2-1d49554bad5c)
   )
 
-  (global_label "Op_Amp_Output" (shape input) (at 99.06 91.44 180) (fields_autoplaced)
+  (global_label "Receiver_Output" (shape input) (at 99.06 91.44 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 04938198-be93-4f5f-85e0-a406d1e7a5ed)
-    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 82.0721 91.3606 0)
+    (property "Intersheet References" "${INTERSHEET_REFS}" (id 0) (at 81.4674 91.3606 0)
       (effects (font (size 1.27 1.27)) (justify right) hide)
     )
   )
