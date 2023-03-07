@@ -448,7 +448,7 @@
       (reference "FPGA1") (unit 1) (value "Artix-7 Dev Board") (footprint "OUR_FOOTPRINTS:FPGA")
     )
     (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/baa84674-ad20-4613-871a-531aac59e40e"
-      (reference "J1") (unit 1) (value "RJ45_LED_Shielded") (footprint "Ethernet Jack:7499410440")
+      (reference "J1") (unit 1) (value "RJ45_LED_Shielded") (footprint "Connector_RJ:RJ45_Amphenol_RJHSE538X")
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/34254c17-7c32-4c88-873b-e0a530efa838"
       (reference "J2") (unit 1) (value "Conn_01x02_Male") (footprint "")
