@@ -740,7 +740,7 @@
     (uuid 215d754c-1940-4430-b670-e74952280409)
     (property "Reference" "D3" (id 0) (at 108.2675 115.57 0))
     (property "Value" "D_Schottky" (id 1) (at 108.2675 118.11 0))
-    (property "Footprint" "" (id 2) (at 107.95 121.92 0)
+    (property "Footprint" "Diode_SMD:D_SOD-123F" (id 2) (at 107.95 121.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 107.95 121.92 0)

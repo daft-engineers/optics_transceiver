@@ -1197,7 +1197,7 @@
     (property "Value" "FerriteBead" (id 1) (at 181.61 60.9091 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 176.022 59.69 90)
+    (property "Footprint" "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder" (id 2) (at 176.022 59.69 90)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 177.8 59.69 0)

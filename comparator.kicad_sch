@@ -595,7 +595,7 @@
     (property "Value" "R_Potentiometer" (id 1) (at 73.66 43.1799 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "" (id 2) (at 76.2 41.91 0)
+    (property "Footprint" "Trimmer:T93YB104KT20" (id 2) (at 76.2 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 76.2 41.91 0)
