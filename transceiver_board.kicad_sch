@@ -466,10 +466,10 @@
       (reference "C_noise1") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/ea3b3607-6a23-4061-9a0c-6d9c61d37058"
-      (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D1") (unit 1) (value "Yellow LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/ad95eee4-50d1-4e47-9a36-397876ebec9f"
-      (reference "D2") (unit 1) (value "LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
+      (reference "D2") (unit 1) (value "Green LED") (footprint "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder")
     )
     (path "/9252f6c6-964c-4a99-bc96-7468213f7a97/215d754c-1940-4430-b670-e74952280409"
       (reference "D3") (unit 1) (value "D_Schottky") (footprint "Diode_SMD:D_SOD-123F")
@@ -496,10 +496,13 @@
       (reference "J2") (unit 1) (value "Conn_01x01_Male") (footprint "multicomp test connector:24.243.2")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/4725cdc7-9cc0-4c76-8edc-0dc2cb0031f3"
-      (reference "J3") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial:SMA_Amphenol_901-144_Vertical")
+      (reference "J3") (unit 1) (value "SMA_Connector") (footprint "SMA Connector:733910070")
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/ce18daec-6076-40b7-9597-dd159f603462"
       (reference "J4") (unit 1) (value "Conn_01x01_Male") (footprint "multicomp test connector:24.243.2")
+    )
+    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/584ec624-a8dc-44ac-8701-d12fd00a4c29"
+      (reference "J5") (unit 1) (value "SMA_Connector") (footprint "SMA Connector:733910070")
     )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/dd09f115-e700-459a-8325-2ba379bc053e"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
@@ -524,9 +527,6 @@
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/bc6998b9-93b8-4cd2-899d-6ee4c5680b0e"
       (reference "L4") (unit 1) (value "4u7") (footprint "")
-    )
-    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/584ec624-a8dc-44ac-8701-d12fd00a4c29"
-      (reference "PhotoReceiver1") (unit 1) (value "FDS010") (footprint "Connector_Coaxial:SMA_Amphenol_901-144_Vertical")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/828d5737-58d6-402a-8f28-c69582938413"
       (reference "Q1") (unit 1) (value "BC547") (footprint "Package_TO_SOT_THT:TO-92_Inline")

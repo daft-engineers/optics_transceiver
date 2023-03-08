@@ -4,4 +4,5 @@
   (lib (name "footprints")(type "KiCad")(uri "${KIPRJMOD}/parts/ul_LAN83C185-JT/KiCAD/2023-02-27_15-58-55/footprints.pretty")(options "")(descr ""))
   (lib (name "multicomp test connector")(type "KiCad")(uri "${KIPRJMOD}/parts/ul_24-243-2/KiCAD/2023-03-07_23-45-39/footprints.pretty")(options "")(descr ""))
   (lib (name "Trimmer")(type "KiCad")(uri "${KIPRJMOD}/parts/ul_T93YB104KT20/KiCAD/2023-03-07_13-17-39/footprints.pretty")(options "")(descr ""))
+  (lib (name "SMA Connector")(type "KiCad")(uri "${KIPRJMOD}/parts/ul_733910070/KiCAD/2023-03-08_14-44-34/footprints.pretty")(options "")(descr ""))
 )

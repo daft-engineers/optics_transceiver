@@ -956,7 +956,6 @@
     )
   )
 
-
   (junction (at 33.02 105.41) (diameter 0) (color 0 0 0 0)
     (uuid 0c8d5440-3759-4e87-a95b-0bf946417544)
   )
@@ -2819,7 +2818,7 @@
     (property "Reference" "D2" (id 0) (at 273.05 33.3374 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "LED" (id 1) (at 273.05 35.8774 90)
+    (property "Value" "Green LED" (id 1) (at 273.05 35.8774 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (id 2) (at 269.24 33.02 0)
@@ -3249,7 +3248,7 @@
     (property "Reference" "D1" (id 0) (at 223.52 32.0674 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "LED" (id 1) (at 223.52 34.6074 90)
+    (property "Value" "Yellow LED" (id 1) (at 223.52 34.6074 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" (id 2) (at 219.71 31.75 0)
