@@ -3,4 +3,5 @@
   (lib (name "Comparator")(type "Legacy")(uri "${KIPRJMOD}/parts/ul_ltc6752ims8-2-pbf/KiCAD/2023-02-21_12-13-17/2023-02-21_12-13-17.lib")(options "")(descr ""))
   (lib (name "2023-02-27_15-58-55")(type "Legacy")(uri "${KIPRJMOD}/parts/ul_LAN83C185-JT/KiCAD/2023-02-27_15-58-55/2023-02-27_15-58-55.lib")(options "")(descr ""))
   (lib (name "SamacSys_Parts")(type "Legacy")(uri "${KIPRJMOD}/parts/puls magnetics/SamacSys_Parts.lib")(options "")(descr ""))
+  (lib (name "SMA_Connector")(type "Legacy")(uri "${KIPRJMOD}/parts/ul_733910070/KiCAD/2023-03-08_14-44-34/2023-03-08_14-44-34.lib")(options "")(descr ""))
 )

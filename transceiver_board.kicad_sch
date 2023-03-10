@@ -496,13 +496,13 @@
       (reference "J2") (unit 1) (value "Conn_01x01_Male") (footprint "multicomp test connector:24.243.2")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/4725cdc7-9cc0-4c76-8edc-0dc2cb0031f3"
-      (reference "J3") (unit 1) (value "SMA_Connector") (footprint "SMA Connector:733910070")
+      (reference "J3") (unit 1) (value "Laser") (footprint "CONN_73391-0070_MOL")
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/ce18daec-6076-40b7-9597-dd159f603462"
       (reference "J4") (unit 1) (value "Conn_01x01_Male") (footprint "multicomp test connector:24.243.2")
     )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/584ec624-a8dc-44ac-8701-d12fd00a4c29"
-      (reference "J5") (unit 1) (value "SMA_Connector") (footprint "SMA Connector:733910070")
+      (reference "J5") (unit 1) (value "Receiver Connector") (footprint "CONN_73391-0070_MOL")
     )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/dd09f115-e700-459a-8325-2ba379bc053e"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
