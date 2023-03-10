@@ -517,16 +517,16 @@
       (reference "JP4") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/f83cff11-12c1-4b3f-89dd-61de0bb46b7e"
-      (reference "L1") (unit 1) (value "3u9") (footprint "")
+      (reference "L1") (unit 1) (value "3u9") (footprint "Inductors:SBCP-47HY3R9B")
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/751536b1-8094-435f-a749-58b392d63f26"
-      (reference "L2") (unit 1) (value "4u7") (footprint "")
+      (reference "L2") (unit 1) (value "4u7") (footprint "Inductors:SBCP-47HY4R7B")
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/208a2b6c-426a-4d1c-9f8d-a426081d855a"
-      (reference "L3") (unit 1) (value "3u9") (footprint "")
+      (reference "L3") (unit 1) (value "3u9") (footprint "Inductors:SBCP-47HY3R9B")
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/bc6998b9-93b8-4cd2-899d-6ee4c5680b0e"
-      (reference "L4") (unit 1) (value "4u7") (footprint "")
+      (reference "L4") (unit 1) (value "4u7") (footprint "Inductors:SBCP-47HY4R7B")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/828d5737-58d6-402a-8f28-c69582938413"
       (reference "Q1") (unit 1) (value "BC547") (footprint "Package_TO_SOT_THT:TO-92_Inline")
