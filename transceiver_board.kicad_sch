@@ -487,7 +487,7 @@
       (reference "FB4") (unit 1) (value "FerriteBead") (footprint "Inductor_SMD:L_1206_3216Metric_Pad1.22x1.90mm_HandSolder")
     )
     (path "/9252f6c6-964c-4a99-bc96-7468213f7a97/40c6ff27-ff04-4354-bf7d-aac7fff2d9fa"
-      (reference "FPGA1") (unit 1) (value "Artix-7 Dev Board") (footprint "OUR_FOOTPRINTS:FPGA")
+      (reference "FPGA1") (unit 1) (value "Artix-7 Dev Board") (footprint "FPGA:FPGA")
     )
     (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/baa84674-ad20-4613-871a-531aac59e40e"
       (reference "J1") (unit 1) (value "RJ45_LED_Shielded") (footprint "Connector_RJ:RJ45_Amphenol_RJHSE538X")
@@ -682,7 +682,7 @@
       (reference "R_noise1") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/9c91d18d-68d4-4932-8503-e5dad9f3ecb3/6ef55d91-20a9-4b77-8742-9f8f5c9f1f45"
-      (reference "T1") (unit 1) (value "S558-5999-46-F") (footprint "SamacSys_Parts:SOP254P1270X597-16N")
+      (reference "T1") (unit 1) (value "S558-5999-46-F") (footprint "Pulse Transformer:SOP254P1270X597-16N")
     )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/0d956adf-018a-4228-8815-32bc3b9c6f6f"
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")

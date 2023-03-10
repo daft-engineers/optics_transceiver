@@ -885,7 +885,7 @@
     (uuid 6ef55d91-20a9-4b77-8742-9f8f5c9f1f45)
     (property "Reference" "T1" (id 0) (at 128.27 64.77 0))
     (property "Value" "S558-5999-46-F" (id 1) (at 128.27 67.31 0))
-    (property "Footprint" "SamacSys_Parts:SOP254P1270X597-16N" (id 2) (at 135.89 69.85 0)
+    (property "Footprint" "Pulse Transformer:SOP254P1270X597-16N" (id 2) (at 135.89 69.85 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "https://www.mouser.co.uk/datasheet/2/643/dr-MAG-S558-5999-46-F-1310230.pdf" (id 3) (at 135.89 72.39 0)
