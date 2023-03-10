@@ -516,6 +516,9 @@
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/5b9fcd98-a9ac-4b2b-9b0f-44fc9c1dc339"
       (reference "JP4") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
     )
+    (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/91fea777-8797-4f8d-9730-9732923d9995"
+      (reference "JP5") (unit 1) (value "SolderJumper_2_Bridged") (footprint "Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm")
+    )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/f83cff11-12c1-4b3f-89dd-61de0bb46b7e"
       (reference "L1") (unit 1) (value "3u9") (footprint "Inductors:SBCP-47HY3R9B")
     )
@@ -542,9 +545,6 @@
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/c81fc124-8dda-4762-b370-3f4c7bb2a965"
       (reference "R3") (unit 1) (value "120") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
-    )
-    (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/39e5fbd0-4817-496b-94e9-420f0be29e81"
-      (reference "R4") (unit 1) (value "0") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/2115a2ae-1421-4043-b5e9-d0694772a57b"
       (reference "R5") (unit 1) (value "47R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
