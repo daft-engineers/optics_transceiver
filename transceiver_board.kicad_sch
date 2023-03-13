@@ -285,9 +285,6 @@
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/315fbd9d-d8f0-4f15-801f-0464f3682cb7"
       (reference "#PWR051") (unit 1) (value "+5V") (footprint "")
     )
-    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/d9ca33a7-9a32-4df3-8ac6-74549551bae6"
-      (reference "#PWR053") (unit 1) (value "GND") (footprint "")
-    )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/5155e095-0edd-45d6-821e-64632b11a90d"
       (reference "#PWR0101") (unit 1) (value "GND") (footprint "")
     )
@@ -302,9 +299,6 @@
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/d6dae402-a821-40a5-b7f0-6119be9f3bc5"
       (reference "#PWR0105") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/caaa33ef-e562-47a1-9c79-e3c0543cee1c"
-      (reference "#PWR0106") (unit 1) (value "+5V") (footprint "")
     )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/44872dbf-13f6-4b9c-9d10-b50c8e9d0bbc"
       (reference "#PWR0107") (unit 1) (value "+5V") (footprint "")
@@ -440,15 +434,6 @@
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/45a3ca22-013c-4a89-b38c-b05893fee138"
       (reference "C38") (unit 1) (value "22u") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
-    )
-    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/e1e1e74e-ec6d-445e-89af-361e66c1a275"
-      (reference "C39") (unit 1) (value "2u2") (footprint "Capacitor_Tantalum_SMD:CP_EIA-3528-15_AVX-H_Pad1.50x2.35mm_HandSolder")
-    )
-    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/944f1a1d-7476-4d3b-b278-db6c09610902"
-      (reference "C40") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
-    )
-    (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/3bfc77a0-0eef-492b-b087-cc685b3a1f58"
-      (reference "C41") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/4de3139a-5c34-42b0-9b89-c93bfb6f500e"
       (reference "C42") (unit 1) (value "100n") (footprint "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder")
