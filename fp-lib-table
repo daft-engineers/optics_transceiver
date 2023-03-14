@@ -8,4 +8,5 @@
   (lib (name "Inductors")(type "KiCad")(uri "${KIPRJMOD}/parts/Inductors/footprints.pretty")(options "")(descr ""))
   (lib (name "FPGA")(type "KiCad")(uri "${KIPRJMOD}/parts/custom_footprints/OUR_FOOTPRINTS.pretty")(options "")(descr ""))
   (lib (name "Pulse Transformer")(type "KiCad")(uri "${KIPRJMOD}/parts/external_footprints/SamacSys_Parts.pretty")(options "")(descr ""))
+  (lib (name "KiCad 85505-5113")(type "KiCad")(uri "${KIPRJMOD}/parts/KiCad 85505-5113")(options "")(descr ""))
 )
