@@ -623,7 +623,7 @@
     (property "Datasheet" "~" (id 3) (at 76.2 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Source" "https://onecall.farnell.com/vishay/t93yb104kt20/trimmer-pot-100k-23turn-thd/dp/1141422" (id 4) (at 76.2 41.91 0)
+    (property "Source" "L7 store" (id 4) (at 76.2 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid b18c48f5-f71d-4c59-a811-595e7bf3ca11))

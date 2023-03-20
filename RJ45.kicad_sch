@@ -456,7 +456,7 @@
     (property "Manufacturer_Part_Number" "85505-5113" (id 12) (at 149.86 874.93 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
-    (property "Source" "https://uk.farnell.com/molex/85505-5113/modular-jack-tht-r-a-rj45-8p8c/dp/1560163" (id 13) (at 133.35 80.01 0)
+    (property "Source" "https://onecall.farnell.com/molex/85505-5113/modular-jack-tht-r-a-rj45-8p8c/dp/1560163" (id 13) (at 133.35 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 2ae51882-56d9-404d-a6fd-d97eb8f55c06))
