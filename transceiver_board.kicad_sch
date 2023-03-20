@@ -484,13 +484,13 @@
       (reference "J2") (unit 1) (value "Conn_01x01_Male") (footprint "multicomp test connector:24.243.2")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/4725cdc7-9cc0-4c76-8edc-0dc2cb0031f3"
-      (reference "J3") (unit 1) (value "Laser") (footprint "CONN_73391-0070_MOL")
+      (reference "J3") (unit 1) (value "Laser") (footprint "SMA Connector:733910070")
     )
     (path "/099fbc0b-58f5-4ea0-91be-48e4a94d6545/ce18daec-6076-40b7-9597-dd159f603462"
       (reference "J4") (unit 1) (value "Conn_01x01_Male") (footprint "multicomp test connector:24.243.2")
     )
     (path "/ba74941e-d0cd-46a4-ade7-f1aec57ffafc/584ec624-a8dc-44ac-8701-d12fd00a4c29"
-      (reference "J5") (unit 1) (value "Receiver Connector") (footprint "CONN_73391-0070_MOL")
+      (reference "J5") (unit 1) (value "Receiver Connector") (footprint "SMA Connector:733910070")
     )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/dd09f115-e700-459a-8325-2ba379bc053e"
       (reference "JP1") (unit 1) (value "SolderJumper_2_Open") (footprint "Jumper:SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm")
@@ -526,13 +526,16 @@
       (reference "Q2") (unit 1) (value "BC547") (footprint "Package_TO_SOT_THT:TO-92_Inline")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/e294b8d0-e3ff-4277-8331-3bd8539b5051"
-      (reference "R1") (unit 1) (value "160") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R1") (unit 1) (value "180R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/4e26f37f-9d1c-4bde-bd51-eaaff879fe85"
-      (reference "R2") (unit 1) (value "120") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R2") (unit 1) (value "240R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/c81fc124-8dda-4762-b370-3f4c7bb2a965"
-      (reference "R3") (unit 1) (value "120") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R3") (unit 1) (value "240R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
+    )
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/78a462f8-827d-475a-9f45-6fd6baf6ae62"
+      (reference "R4") (unit 1) (value "240R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/2115a2ae-1421-4043-b5e9-d0694772a57b"
       (reference "R5") (unit 1) (value "47R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -551,6 +554,9 @@
     )
     (path "/2ed4948e-59e2-4bfe-884a-1c527b3a5f14/061c147f-e231-4c5f-a5cf-5533ead6a90f"
       (reference "R10") (unit 1) (value "47R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+    )
+    (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/d4a8eaf4-6d44-4b33-adf5-5546be6a5992"
+      (reference "R11") (unit 1) (value "240R") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal")
     )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/e39de550-fc34-499e-98cf-ac13c9c91d06"
       (reference "R12") (unit 1) (value "1M") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
@@ -652,7 +658,7 @@
       (reference "R44") (unit 1) (value "47R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/1de94cad-76c0-4a30-84fe-02d514b058e5/5dde8a14-022f-488a-a321-608e52bdf39a"
-      (reference "R46") (unit 1) (value "160") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
+      (reference "R46") (unit 1) (value "180R") (footprint "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder")
     )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/7a619027-97df-498d-8a0c-2c78f3c2bc46"
       (reference "RV1") (unit 1) (value "10kRV") (footprint "Trimmer:T93YB104KT20")

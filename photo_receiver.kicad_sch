@@ -598,7 +598,7 @@
     (property "Value" "Receiver Connector" (id 1) (at 149.86 77.47 90)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "CONN_73391-0070_MOL" (id 2) (at 142.494 81.28 0)
+    (property "Footprint" "SMA Connector:733910070" (id 2) (at 142.494 81.28 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 135.89 91.44 0)
