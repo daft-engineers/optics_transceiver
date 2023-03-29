@@ -55,7 +55,10 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "track_dangling|44900000|68800000|5a010e2d-c84b-49b3-b1a2-788ffcf4e9e4|00000000-0000-0000-0000-000000000000",
+        "track_dangling|48400000|68900000|ba4bab25-f5da-47d3-9cb1-8518ab3600c8|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },

@@ -682,7 +682,7 @@
       (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.0x1.0mm")
     )
     (path "/8e682951-d8d0-4614-a72d-99ac2c01b394/e688799b-e7ea-44b5-88bf-b31cf54751af"
-      (reference "U1") (unit 1) (value "LAN83C185-JT") (footprint "Package_QFP:TQFP-64_10x10mm_P0.5mm")
+      (reference "U1") (unit 1) (value "LAN83C185-JT") (footprint "FPGA:TQFP-64_10x10mm_P0.5mm")
     )
     (path "/51bba4f8-4ea3-409a-8f3c-dd75ae3bfb55/72b49ec8-c68f-4d04-913b-fe685e96edee"
       (reference "U2") (unit 1) (value "ltc6752ims8-2-pbf") (footprint "Package_SO:MSOP-8_3x3mm_P0.65mm")
